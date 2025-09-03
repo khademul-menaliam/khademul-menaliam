@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Khademul Islam
 
 🎓 I'm a recent Computer Science graduate  
-👨‍💻 Aspiring Full Stack Web Developer | Open to Internships & Junior Roles
+👨‍💻 Aspiring Full Stack Web Developer | Open to Internships & Junior Roles | Full Time
 
 ---
 
