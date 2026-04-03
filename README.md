@@ -27,11 +27,10 @@
 ---
 ### 📌 Goals
 
-- ✅ Master Laravel backend development  
-- ⏳ Learn frontend frameworks (Vue.js or React)  
-- ⏳ Start contributing to open-source  
-- 🚀 Land my first job or internship in web development
-
+- 📈 Move from junior → mid-level by consistently delivering real features
+- 🤝 Be the developer teammates trust when things need to get done
+- 💰 Grow my income, Money Money Money.
+- ⚡ Use AI tools smartly to work faster, not lazier
 ---
 
 ### 📫 Get in Touch
