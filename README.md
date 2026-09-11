@@ -111,7 +111,6 @@ I'm currently focused on becoming a stronger backend engineer by improving my kn
 
 ## 🎯 Goals
 
-* 📈 Grow from **junior → mid-level → senior backend developer**
 * 🧠 Build deeper expertise in **Laravel and backend architecture**
 * 🏗️ Design and maintain scalable production systems
 * 🤝 Become a developer teammates can rely on
